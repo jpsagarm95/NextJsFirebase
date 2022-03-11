@@ -22,7 +22,7 @@
   "include": [
     "next-env.d.ts",
     "**/*.ts",
-    "**/*.tsx"
+    "**/*.tsx", "lib/firebase.js", "lib/hooks.js", "pages/api/hello.js", "pages/index.js", "pages/_app.js", "pages/enter.js"
   ],
   "exclude": [
     "node_modules"
